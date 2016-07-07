@@ -1,0 +1,70 @@
+#headwords {
+	width: auto;
+	text-align: right;
+	vertical-align: middle;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: #666666;
+	margin-bottom: 100px;
+
+}
+body a{color: #666666;
+    padding-left: 10px;
+    padding-right: 10px;}
+
+#headwords > div {
+	display: inline;
+}
+
+#header img{
+	border-radius:50%;
+	vertical-align: middle;
+	heigth:32px;
+	width: 33.5px;
+}
+
+#lst-ib{
+	width:425px;
+	height:26px;
+}
+
+#gsearch,#glucky {
+	margin-top: 45px;
+	font-size: 16px;
+	margin-bottom: 200px;
+
+}
+
+input[type="submit"]{
+	background: #f3f3f3;
+	margin: 11px;
+	border: 1px;
+	padding-right: 16px;
+	padding-left: 16px;
+	heigth: 34em;
+	width: 108.578;
+
+}
+
+#footer {
+
+	 line-heigth: 40px;
+	 margin-left: -27px;
+	 font-family: arial,sans-serif;
+	 font-size: 13px;
+	 Background-color: #f2f2f2;
+
+
+}
+
+#footer .ri{
+   position: absolute;
+	right:0;
+
+
+}
+#footer .le{
+   position: absolute;
+
+
+}
